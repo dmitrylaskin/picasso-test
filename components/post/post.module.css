@@ -1,0 +1,23 @@
+.email {
+    display: inline;
+    color: lightgrey;
+    font-size: 12px;
+}
+
+.comments {
+    overflow-y: scroll;
+    height: 215px;
+}
+
+.comment {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.content {
+    padding: 20px 20px 0 20px;
+}
+
+.commentContent {
+    padding: 0 20px 0 20px;
+}

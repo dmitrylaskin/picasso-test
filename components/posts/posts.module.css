@@ -1,0 +1,9 @@
+.posts {
+    padding: 10px 10px 0 10px;
+    overflow-y: scroll;
+    height: 575px;
+}
+
+.post {
+    margin-right: 10px;
+}
